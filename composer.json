@@ -1,0 +1,17 @@
+{
+    "name": "jced-artem/lazy-loading",
+    "type": "library",
+    "description": "Quick simple lazy loading trait using reference property and closure",
+    "keywords": ["lazy loading", "trait", "pattern"],
+    "homepage": "https://github.com/jced-artem",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem Jced",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
